@@ -1,6 +1,6 @@
 # trafficset
-Simple and easy to use script, that allows you to adjust traffic and ped amount. For setting the traffic and ped amount, just play with cl.lua .
+Simple and easy to use script, that allows you to adjust traffic and ped amount. For setting the traffic and ped amount, just play with cl.lua.
 
-Instalation: drag and drop in your resource folder, add start trafficset to server.cfg , and youre done. Enjoy!
+Installation: drag and drop in your resource folder, add start trafficset to server.cfg , and you’re done. Enjoy!
 
 Credits to Chocoleight for creating the script.
